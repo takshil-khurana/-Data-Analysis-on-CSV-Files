@@ -1,2 +1,16 @@
-# -Data-Analysis-on-CSV-Files
-A Python project for analyzing sales data using Pandas and Matplotlib. This project demonstrates how to load CSV/Excel files, explore datasets, group and aggregate sales information, filter data, and visualize results with bar charts. Perfect for beginners learning data analysis in Python.
+# 📊 Sales Data Analysis (Python Developer Internship Task)
+
+## Objective
+Analyze sales data using Pandas to get basic insights and create visualizations.
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+
+## Steps
+1. Load CSV file using Pandas.
+2. Explore dataset (`head()`, `shape`, `info()`, `isnull()`).
+3. Perform grouping and aggregation using `groupby()`.
+4. Create bar charts using `matplotlib`.
+5. Filter rows using conditions
